@@ -1,5 +1,5 @@
-# Ignore .txt files
+# Ignore
 *.txt
-
-# Ignore .pdf files
 *.pdf
+*.zip
+
